@@ -1,0 +1,3 @@
+{
+  "extends": "@apset/eslint-config-apset"
+}
