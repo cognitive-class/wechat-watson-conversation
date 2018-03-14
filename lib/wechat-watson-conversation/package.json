@@ -1,0 +1,16 @@
+{
+  "name": "wechat-watson-conversation",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:cognitive-class/wechat-watson-conversation.git",
+  "files": [
+    "lib"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "body-parser": "^1.18.2",
+    "body-parser-xml": "^1.1.0",
+    "watson-developer-cloud": "^3.0.7"
+  }
+}

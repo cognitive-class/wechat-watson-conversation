@@ -1,0 +1,59 @@
+faq,do you have a blog,blog,your blog,what's your blog,take me to your blog,blog posts
+faq,who is your creator,who is your builder,who wrote you,who made you,who is your father,who is your daddy,who is your dad,who created you,who coded you,who built you
+faq,are you a chatbot,Have you become self-aware?,is this a real person,are you real,are you even real,are you a robot,are you a real person,are you a person,are you a chat bot,are you a bot
+faq,will AI make me irrelevant,will AI make Data Scientists irrelevant,will cognitive replace data scientists,will cognitive computing replace data scientists,will AI replace data scientists,will AI make programmers obsolete,will AI make data scientists obsolete,will AI make data science irrelevant
+faq,do you have a mobile app,mobile apps,iPhone,iOS,Android,mobile devices,smartphone,offline
+faq,will my employer know,will my employer find out,will you tell my employer
+faq,help with immigration,immigration to America,immigration to the States,immigration to the USA,immigration to the US,immigration to Canada
+faq,rickroll,never gonna give you up,prank me,easter egg,rick rolling,rickrolling,rick roll
+faq,do I get a job at IBM,job with IBM,will IBM give me a job,job at IBM
+faq,how to get certificate,when will I receive a certificate,how do I receive a certificate,when will I get my certificate,I didn't get my certificate,how to get a certificate,certificate,how do I get a certificate
+faq,open ticket,getting help,getting support,open support ticket,support team,human help,contact support,asking for human help
+faq,ML vs Deep Learning,ML versus Deep Learning,Deep Learning versus ML,Deep Learning vs ML,difference between ML and Deep Learning,difference between Machine Learning and Deep Learning
+faq,help,assist me,aiudo,aiuto,help me
+faq,do I need a degree,degree needed,is a degree needed,do I need a stats degree,do I need a statistics degree to become a datascientist,do I need a math or statistics degree?,do I need a math degree to become a data scientist,do I need a math degree
+faq,how many students,how many enrolled students,registred users,total registrants,how many students does BDU have?,how many students do you have?
+faq,what is your name,what do I call you,what's your name
+faq,tell me a joke,make me laugh,crack a joke,joke for me,give me a joke
+faq,what languages are your courses in,Brazilian,Portuguese,Mandarin,Do you have courses in Mandarin?,Do you have courses in Portuguese?,Do you have courses in Chinese?,are your courses in English?,are you courses in English only?
+faq,data scientist vs data engineer,different between data science and data engineering,difference between data science and data engineering,difference between data scientist and data engineer,different between data scientist and data engineer,data scientist vs data engineer,data scientists vs data engineers,data science vs data engineering
+faq,R vs Python,python better than R,R better than python,is R better than python,is python better than R,R versus Python,R or Python,R and Python,Python vs R,Python versus R,Python or R,Python and R
+faq,bad english,english is not very good,english is not good,english not good,english so so
+faq,do I get a degree,college,college credits,university credits,university credit,extra credits,are you a real university
+faq,are your courses free,money,free,costs,price,cost,how much,how much do you charge
+faq,answer to life,answer to universe,the answer to life the universe and everything,"the answer to life, the universe and everything"
+faq,do I get an IBM certification,ibm certificate,ibm certification,ibm certificates,certified by ibm
+learning_paths,Data Science,data engineering,manipulating data,handling data,extracting insight,data manipulation,data analysis,business analytics,business analysis,analyzing data,analytics,algorithms
+learning_paths,Data Science for Business,SAS,insurance
+learning_paths,Text Analytics,Natural Language Processing,NLP,SystemT,rule-based IE,Information Extraction,Declarative IE,AQL
+learning_paths,Cognitive Analytics,Watson Analytics,SystemML,predictive modelling,Predictive Modeling,Machine Learning,Apache SystemML
+learning_paths,Big Data,volume,veracity,velocity,variety,operations analysis
+learning_paths,Deep Learning,Vanishing Gradient,Unsupervised Learning,Torch,Theano,TensorFlow,RNN,Restricted Boltzmann Machines,Recursive Neural Tensor Network,Recursive Neural Tensor Nets,Recurrent Nets,RBM,Perceptron,neuron,Neural Networks,neural,LSTM,Long Short-Term memory,H2O.ai,Deeplearning4j,Deep Belief Networks,Deep Architectures,DBN,Dato GraphLab,Convolutional Networks,Collaborative Filtering,CNN,Caffe,Backprogation,Autoencoders
+learning_paths,Hadoop,Hadoop Fundamentals,Hadoop Distributed File System,Hadoop Common,Apache Hadoop
+learning_paths,Hadoop Administration,Zoo Keeper,ZooKeeper,ZAB,Workflows,Sqoop,SolrJ,Solr,Oozie,Moving Data,Lucene Java,HDFS,Hadoop Jobs,Flume,Distributed Applications,Data Click
+learning_paths,Hadoop Data Access,QueryLanguage,Parquet,ORC,ImportTSV,Hive QL,Hive DML,Hive DDL,Hive,HBase,DML queries,CAP Theorem,Big SQL,BigSQL,batch scan
+learning_paths,Python,python3,python2,py
+learning_paths,R,Statistical Language,R language,r lang,rlang
+learning_paths,Scala,Language for the JVM,jvm language,Functional Programming,Acca
+learning_paths,Spark,Zeppelin,SparkR,Spark Cluster,Resilient Distributed Dataset,RDDs,RDD,Neighbourhood Aggregation,Neighborhood Aggregation,MLlib,GraphX,Graph-Parallel,GLM model,big data cluster,Apache Spark,aggregateMessages
+learning_paths,Hadoop Programming,cloud computing,Yet Another Resource Negotiator,YARN,runtime environment,Reducer,PigLatin,Pig,MapReduce1,MapReduce,Mapper,KafkaProducer,KafkaConsumer,Kafka Connect,Kafka,Data Pipelines
+learning_paths,Data Management,R with Databases,No SQL,NoSQL,DBaaS,Data Management with IBM,Database as a service
+no,No,probably not,not,Nope,none,nah
+single_courses,chatbot,bots,talkbots,chatterbots,chat bots,chatbots,virtual agent,one of you
+single_courses,Hana,SAP Hana,SAP
+single_courses,Cloudant,Couch Database,Couch DB,Couch,CouchDB
+single_courses,MongoDB
+single_courses,CISSP
+single_courses,regression,linear regression,forecasting
+single_courses,SQL,DBMS,relational databases,relational database,relational,sequel,RDBMS
+single_courses,bitcoin,dogecoin,crypto currencies,ledger,litecoin,coins,altcoins,cryptocurrency,solidity,ethereum,blockchain,btc
+single_courses,data journalism,data journalist,journalism
+single_courses,statistics,stats,statistical,mathematics,maths,math,mathematical
+single_courses,OpenRefine,data preparation,refining data,open refine,messy data,data wrangling,data clean up,data cleanup
+single_courses,dimensionality reduction
+single_courses,data visualization,graphing,charting,graphs,graphics,charts,visualization
+unsupported_languages,rust
+unsupported_languages,clojure,clj
+unsupported_languages,elixir
+unsupported_languages,ruby
+yes,yes,yup,yep,yeah,ya,sure,oh yeah,of course,maybe,indeed,for sure

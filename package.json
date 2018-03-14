@@ -2,23 +2,27 @@
   "name": "wechat-watson-conversation",
   "version": "1.0.0",
   "main": "index.js",
-  "repository": "git@github.ibm.com:apset/wechat-watson-conversation.git",
+  "repository": "git@github.com:cognitive-class/wechat-watson-conversation.git",
   "author": "Michael Lin <michael.lin1@ibm.com>",
-  "license": "ISC",
-  "private": true,
+  "license": "MIT",
   "engines": {
     "node": "8.9.4"
   },
   "scripts": {
-    "dev": "nodemon -w . --exec \"node app.js\"",
-    "start": "node app.js",
+    "dev": "nodemon -w . --exec \"node app\"",
+    "start": "node app",
     "lint": "eslint ."
   },
   "dependencies": {
-    "express": "^4.16.2"
+    "express": "^4.16.2",
+    "express-async-router": "^0.1.13",
+    "express-session": "^1.15.6",
+    "memorystore": "^1.6.0",
+    "node-weixin-message": "^0.1.1",
+    "wechat-watson-conversation": "file:./lib/wechat-watson-conversation"
   },
   "devDependencies": {
-    "@apset/eslint-config-apset": "^1.1.0",
+    "@apset/eslint-config-apset": "file:./lib/eslint-config-apset",
     "eslint": "^4.18.2",
     "nodemon": "^1.17.1"
   }

@@ -1,0 +1,15 @@
+learning_paths,Spark,aggregateMessages,Apache Spark,big data cluster,GLM model,Graph-Parallel,GraphX,MLlib,Neighborhood Aggregation,Neighbourhood Aggregation,RDD,RDDs,Resilient Distributed Dataset,Spark Cluster,SparkR,Zeppelin
+learning_paths,Scala,Acca,Functional Programming,jvm language,Language for the JVM
+learning_paths,R,rlang,r lang,R language,Statistical Language
+learning_paths,Python,py,python2,python3
+learning_paths,Hadoop,Apache Hadoop,Hadoop Common,Hadoop Distributed File System,Hadoop Fundamentals
+learning_paths,大数据,operations analysis,variety,velocity,veracity,volume
+learning_paths,认知分析,Apache SystemML,Machine Learning,Predictive Modeling,predictive modelling,SystemML,Watson Analytics
+learning_paths,数据管理,Database as a service,Data Management with IBM,DBaaS,NoSQL,No SQL,R with Databases
+learning_paths,数据科学,algorithms,analytics,analyzing data,business analysis,business analytics,data analysis,data manipulation,extracting insight,handling data,manipulating data,data engineering
+learning_paths,数据科学商业应用,insurance,SAS
+learning_paths,深度学习,Autoencoders,Backprogation,Caffe,CNN,Collaborative Filtering,Convolutional Networks,Dato GraphLab,DBN,Deep Architectures,Deep Belief Networks,Deeplearning4j,H2O.ai,Long Short-Term memory,LSTM,neural,Neural Networks,neuron,Perceptron,RBM,Recurrent Nets,Recursive Neural Tensor Nets,Recursive Neural Tensor Network,Restricted Boltzmann Machines,RNN,TensorFlow,Theano,Torch,Unsupervised Learning,Vanishing Gradient
+learning_paths,Hadoop管理,Data Click,Distributed Applications,Flume,Hadoop Jobs,HDFS,Lucene Java,Moving Data,Oozie,Solr,SolrJ,Sqoop,Workflows,ZAB,ZooKeeper,Zoo Keeper
+learning_paths,Hadoop数据访问,batch scan,BigSQL,Big SQL,CAP Theorem,DML queries,HBase,Hive,Hive DDL,Hive DML,Hive QL,ImportTSV,ORC,Parquet,QueryLanguage
+learning_paths,Hadoop编程,Data Pipelines,Kafka,Kafka Connect,KafkaConsumer,KafkaProducer,Mapper,MapReduce,MapReduce1,Pig,PigLatin,Reducer,runtime environment,YARN,Yet Another Resource Negotiator,cloud computing
+learning_paths,文字分析,AQL,Declarative IE,Information Extraction,rule-based IE,SystemT,NLP,Natural Language Processing

@@ -1,0 +1,4 @@
+unsupported_languages,rust
+unsupported_languages,clojure,clj
+unsupported_languages,elixir
+unsupported_languages,ruby
