@@ -1,17 +1,21 @@
-# 使用 Watcon Conversation 打造微信聊天机器人
+# 使用 Watcon Assistant（原 Watson Conversation） 打造微信聊天机器人
 
-Watcon Conversation 是一个集成了机器学习，自然语言分析和对话工具的认知服务平台。用户可以快速的在 Watson 提供的 Web 界面上进行训练，快速的打造出一个能进行自然语言交流的机器人。
+Watcon Assistant 是一个集成了机器学习，自然语言分析和对话工具的认知服务平台。用户可以快速的在 Watson 提供的 Web 界面上进行训练，快速的打造出一个能进行自然语言交流的机器人。
 
-在本篇教程中，我将注重介绍如何在微信公众号/订阅号中应用 Watson Conversation 来与用户进行对话。
+在本篇教程中，我将注重介绍如何在微信公众号/订阅号中应用 Watson Assistant 来与用户进行对话。
 
 ## 准备
 
+### IBM认知学堂 (IBM Cognitive Class)
+1. 注册用户讲获得价值1200美元的IBM Cloud云服务促销卷。https://cognitiveclass.ai/zh/ibm-cloud-offer-cn/
+2. 此页面讲将告诉您如何使用所获得的促销卷。http://cognitiveclass.ai/zh/applying-ibm-cloud-promo-code/
+
 ### IBM Cloud 账号
-1. 你需要一个 IBM Cloud 账号，可以通过这个链接登陆或者注册，[http://ibm.biz/wechat-watson-conversation](http://ibm.biz/wechat-watson-conversation)。你将会免费获得的每月10,000次的服务调用量。
+1. 你需要一个 IBM Cloud 账号，可以通过这个链接登陆或者注册，[http://ibm.biz/wechat-watson-conversation](http://ibm.biz/wechat-watson-conversation)。
 
-2. 打开 [Watonson Conversation 介绍页](http://ibm.biz/wechat-watson-conversation)，建立服务，如图。点击确认建立服务。
+2. 打开 [Watonson Assistant 介绍页](http://ibm.biz/wechat-watson-conversation)，建立服务，如图。点击确认建立服务。
 
-    [![https://gyazo.com/677229802ce1c087df8fc422f3889046](https://i.gyazo.com/677229802ce1c087df8fc422f3889046.png)](https://gyazo.com/677229802ce1c087df8fc422f3889046)
+    [![https://gyazo.com/41912742cc523201ca114e6ade3855bf](https://i.gyazo.com/41912742cc523201ca114e6ade3855bf.jpg)](https://gyazo.com/41912742cc523201ca114e6ade3855bf)
 
 3. 把用户名与密码记下来，并点击 `Launch Tool` 打开图形化工具窗口。
 
@@ -31,7 +35,7 @@ Watcon Conversation 是一个集成了机器学习，自然语言分析和对话
 
 
 ### 微信公众号，订阅号
-1. 你需要一个可用的微信订阅号或者公众号。如果还没有，可以在这里注册 [https://mp.weixin.qq.com/](https://mp.weixin.qq.com/)。
+1. 你需要一个可用的微信订阅号或者公众号。如果还没有，可以在这里注册 [https://mp.weixin.qq.com/](https://mp.weixin.qq.com/)。
 
 2. 注册完成之后可以在页面下方找到 `开发 - 基本配置` 进行开发者配置，点击 `修改配置`，
 
@@ -57,7 +61,7 @@ Watcon Conversation 是一个集成了机器学习，自然语言分析和对话
     [![https://gyazo.com/3cc4d7d7d8948083568fb887bbb22151](https://i.gyazo.com/3cc4d7d7d8948083568fb887bbb22151.png)](https://gyazo.com/3cc4d7d7d8948083568fb887bbb22151)
 
 4. 进入设置页面，输入你刚刚所选的环境变量，都是以上步骤所获得的
-    - `WATSON_USERNAME` - Conversation 服务的用户名密码与workspace ID
+    - `WATSON_USERNAME` - Watson Assistant 服务的用户名密码与workspace ID
     - `WATSON_PASSWORD`
     - `WATSON_WORKSPACE_ID`
     - `WECHAT_TOKEN` - 微信开发者配置里的token与encoding key
