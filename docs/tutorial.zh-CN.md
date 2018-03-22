@@ -6,7 +6,7 @@ Watcon Assistant 是一个集成了机器学习，自然语言分析和对话工
 
 ## 准备
 
-### IBM认知学堂 (IBM Cognitive Class)
+### IBM认知学堂 (IBM Cognitive Class)
 1. 注册用户讲获得价值1200美元的IBM Cloud云服务促销卷。https://cognitiveclass.ai/zh/ibm-cloud-offer-cn/
 2. 此页面讲将告诉您如何使用所获得的促销卷。http://cognitiveclass.ai/zh/applying-ibm-cloud-promo-code/
 
