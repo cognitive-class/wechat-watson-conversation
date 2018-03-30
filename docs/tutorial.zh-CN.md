@@ -56,7 +56,7 @@ Watcon Assistant 是一个集成了机器学习，自然语言分析和对话工
 
 2. 我们刚刚注册的 IBM Cloud 账号提供免费的 Cloud Foundry App服务，打开这个连接来创建，[https://ibm.biz/wechat-cf](https://ibm.biz/wechat-cf)
 
-3. 输入必要的信息，并且记住图中所分配的应用域名，e.g. `my-wechat-demo.mybluemix.net`。点击创建
+3. 输入必要的信息，并且记住图中所分配的应用域名和应用名称(App name)，e.g. `my-wechat-demo.mybluemix.net`。点击创建
 
     [![https://gyazo.com/3cc4d7d7d8948083568fb887bbb22151](https://i.gyazo.com/3cc4d7d7d8948083568fb887bbb22151.png)](https://gyazo.com/3cc4d7d7d8948083568fb887bbb22151)
 
@@ -75,13 +75,14 @@ Watcon Assistant 是一个集成了机器学习，自然语言分析和对话工
     bx login # 选择对应的数据中心
     bx target --cf # 设置对应的组织与空间
     ```
-6. 部署
+6. 打开我们的demo中的`manifest.yml`，修改其中的`name`参数为以上第三步所设置的应用名称。
+7. 部署
 
     ```bash
     bx cf push
     ```
 
-7. 最后应用部署完毕之后，请回头微信公众号开发者设置，输入 Cloud Foundry App 的应用链接。然后按提交即可。
+8. 最后应用部署完毕之后，请回头微信公众号开发者设置，输入 Cloud Foundry App 的应用链接。然后按提交即可。
 
     [![https://gyazo.com/f86646e4bc51b8f02d948938d076baa4](https://i.gyazo.com/f86646e4bc51b8f02d948938d076baa4.png)](https://gyazo.com/f86646e4bc51b8f02d948938d076baa4)
 
