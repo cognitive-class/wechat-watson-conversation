@@ -1,4 +1,9 @@
 # wechat-watson-conversation
+
+**DEPRECATED** This project has been moved to [watson-assistant-for-wechat](https://github.com/cognitive-class/watson-assistant-for-wechat)
+
+
+<!-- # wechat-watson-conversation
 Watson Conversation integration in wechat for ExpressJS.
 
 ## Usage
@@ -65,4 +70,4 @@ The library also exposes each individual middleware if you prefer more flexbilit
 - `yarn dev`
 
 ## Author
-- IBM Cognitive Class, IBM Digital Business Group
+- IBM Cognitive Class, IBM Digital Business Group -->
